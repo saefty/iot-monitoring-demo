@@ -1,0 +1,15 @@
+#group,false,false,true,true,false,false,true,false,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string
+#default,_result,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,machineKey,machineName
+,,0,1970-01-01T00:00:00Z,2021-08-01T13:41:29.7062031Z,2021-08-01T13:41:23.2Z,15,TS_setpoint_tail_length,machine_telemetry,ajoparametrit,Ajoparametrit
+,,1,1970-01-01T00:00:00Z,2021-08-01T13:41:29.7062031Z,2021-08-01T13:41:26.287Z,3,core_diameter,machine_telemetry,ajoparametrit,Ajoparametrit
+,,2,1970-01-01T00:00:00Z,2021-08-01T13:41:29.7062031Z,2021-08-01T13:41:23.2Z,15,core_interference,machine_telemetry,ajoparametrit,Ajoparametrit
+,,3,1970-01-01T00:00:00Z,2021-08-01T13:41:29.7062031Z,2021-08-01T13:41:23.437Z,25.7,core_interference,machine_telemetry,wickelkopf,Wickelkopf
+,,4,1970-01-01T00:00:00Z,2021-08-01T13:41:29.7062031Z,2021-08-01T13:41:23.413Z,15,log_diameter,machine_telemetry,aufwickler,Aufwickler
+,,5,1970-01-01T00:00:00Z,2021-08-01T13:41:29.7062031Z,2021-08-01T13:41:23.2Z,17.7,number_of_sheets,machine_telemetry,ajoparametrit,Ajoparametrit
+,,6,1970-01-01T00:00:00Z,2021-08-01T13:41:29.7062031Z,2021-08-01T13:41:23.2Z,16.5,perforation_length,machine_telemetry,ajoparametrit,Ajoparametrit
+,,7,1970-01-01T00:00:00Z,2021-08-01T13:41:29.7062031Z,2021-08-01T13:41:26.287Z,20,speed,machine_telemetry,ajoparametrit,Ajoparametrit
+,,8,1970-01-01T00:00:00Z,2021-08-01T13:41:29.7062031Z,2021-08-01T13:41:23.413Z,35.6,speed,machine_telemetry,aufwickler,Aufwickler
+,,9,1970-01-01T00:00:00Z,2021-08-01T13:41:29.7062031Z,2021-08-01T13:41:23.437Z,27.7,speed,machine_telemetry,wickelkopf,Wickelkopf
+
